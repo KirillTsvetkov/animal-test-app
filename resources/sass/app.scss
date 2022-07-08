@@ -1,0 +1,22 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+#getKinds{
+    /* Rectangle 3 */
+
+position: absolute;
+width: 300px;
+height: 48px;
+left: 70px;
+top: 50px;
+
+background: #D7CCC8;
+border-radius: 0px 8px 8px 0px;
+
+}

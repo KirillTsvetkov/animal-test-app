@@ -1,0 +1,21 @@
+#bg-app{
+    background: linear-gradient(180deg, #E0F7FA 0%, #80DEEA 100%);
+    position: absolute;
+width: 1152px;
+height: 700px;
+left: 0px;
+top: 0px;
+}
+
+#getKinds{
+/* Ellipse 1 */
+
+position: absolute;
+width: 60px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+background: #3E2723;
+
+}
